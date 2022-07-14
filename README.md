@@ -1,3 +1,7 @@
+deployed on rinkeby:
+deploying "DiceGame" (tx: 0x411384f0aea16d9020948361fe0dfa312a719c5ad5555d912950caf73b077db2)...: deployed at 0xaBB3f7B4972C781EE89E5f9cC34323d6B8a83b1a with 341525 gas
+deploying "RiggedRoll" (tx: 0x9d8d16c85986fe152333af6d877a464eee223a0b448f15388d90ea542c7febbe)...: deployed at 0xE7D7c74f642266b1A06A2946B8024A3ED9fD2beE with 450160 gas
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 3: 🎲 Dice Game 
